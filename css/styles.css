@@ -1,0 +1,23 @@
+body
+{
+    margin: 0;
+    background-image:url(../pictures/CSBackground.png);
+    background-attachment:fixed;
+    height:auto;
+	width:auto;
+
+}
+.container
+{
+	height:700px;
+	width:1062px;
+	margin:auto;
+
+	background-repeat:repeat;
+	background-image: url(../pictures/jlogo.jpg);
+	opacity:0.1;
+	filter: alpha(opacity=100);
+	background-attachment:fixed;
+	
+}
+
