@@ -1,15 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: JunkJam
+title: JunkJam India
+description: JunkJam is a global, multi-platform media and entertainment company.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: junkjam2015@gmail.com
+disqus_username: junkjam
 show_hero: true
 menu:
   - title: Home
@@ -24,13 +24,10 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+github_username: junkjam
+facebook_username: junkjam.in
+twitter_username: junkjamindia
+instagram_username: junkjam.in
 
 # Posts Settings
 show_time_bar: true
@@ -41,8 +38,8 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://www.junkjam.in" # the base hostname & protocol for your site
+google_analytics: "UA-68683231-1"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -83,6 +80,7 @@ sass:
 
 # Plugins
 plugins:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-paginate-content
 

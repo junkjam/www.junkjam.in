@@ -1,14 +1,14 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: JunkJam
+title: JunkJam India
+description: JunkJam is a global, multi-platform media and entertainment company.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: junkjam2015@gmail.com
+disqus_username: junkjam
 show_hero: true
 menu:
   - title: Home
