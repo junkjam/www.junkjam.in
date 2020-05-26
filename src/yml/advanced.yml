@@ -1,0 +1,4 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.junkjam.in" # the base hostname & protocol for your site
+google_analytics: "UA-68683231-1"
+language: "en"

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JunkJam India</title>
+    <description>JunkJam is a global, multi-platform media and entertainment company.</description>
+    <link>http://localhost:8000/</link>
+    <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 May 2020 00:05:42 +0530</pubDate>
+    <lastBuildDate>Wed, 27 May 2020 00:05:42 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Alternate options for Zoom Application</title>
+        <description>&lt;ol&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Skype Meet Now&lt;/em&gt;&lt;/strong&gt;: The application is a revised version of Skype. An individual do not really have to download the app, or need to create an account and password. Web interface version allows to generate a meeting link, share, and Invitation for the meeting could be sent using the link. Revision of the conferencing application include some interesting features such as record call and save it for 30 days, share your screen, and blur the background before entering the call. You can invite 50 people for the conference, for free of cost.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Bluejeans Video Conferencing&lt;/em&gt;&lt;/strong&gt; :...</description>
+        <pubDate>Tue, 26 May 2020 23:30:00 +0530</pubDate>
+        <link>http://localhost:8000/alternate-options-for-zoom-application/</link>
+        <guid isPermaLink="true">http://localhost:8000/alternate-options-for-zoom-application/</guid>
+        
+        <category>tech</category>
+        
+        <category>app</category>
+        
+        <category>tech</category>
+      </item>
+    
+      <item>
+        <title>Zoom Massacre and Safety Tips to Avoid it</title>
+        <description>&lt;p&gt;In the state of the pandemic, where several countries are in a state of lockdown, people are trying to look for alternate options to compensate for economic losses and balanced education. In the phase, Zoom has got massive business in recent times. Though the California based unicorn was commercialized in 2013, the firm has gained exponential customer traction in recent months. Referring to the records, the number of subscribers increased from 10 billion to 200 billion in early 2020. On the other hand, few conjectures regarding data breach have been doing round due to the use of zoom televideo calling....</description>
+        <pubDate>Tue, 26 May 2020 22:30:00 +0530</pubDate>
+        <link>http://localhost:8000/zoom-massacre-and-safety-tips-to-avoid-it/</link>
+        <guid isPermaLink="true">http://localhost:8000/zoom-massacre-and-safety-tips-to-avoid-it/</guid>
+        
+        <category>tech</category>
+        
+        <category>app</category>
+        
+        <category>tech</category>
+      </item>
+    
+  </channel>
+</rss>
