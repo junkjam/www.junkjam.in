@@ -1,6 +1,22 @@
 ---
-layout: contact
 title: Contact
+layout: page
 description: Let's talk.
-permalink: /contact/
+permalink: "/contact/"
 ---
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAFfzEeYDqC471lYGRi8ORUc4WUghR4tsItjsudrV1dawe0g/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0" id="gform">Loading…</iframe>
+
+<script type="text/javascript">
+var load = 0;
+
+document.getElementById('gform').onload = function(){
+    /*Execute on every reload on iFrame*/
+	  console.log(load);
+    load++;
+    if(load > 1){
+        /*Second reload is a submit*/
+        document.location = "/contact/message-sent/";
+    }
+}
+</script>
