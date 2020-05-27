@@ -5,7 +5,7 @@ description: Some description.
 permalink: "/about/"
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="JunkJam" width="200">
+<img class="img-rounded" src="/assets/img/icons/largetile.png" alt="JunkJam" width="200">
 
 # About
 
