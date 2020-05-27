@@ -6,5 +6,6 @@ name: nidhi
 display_name: Nidhi Prakash
 position: Research Analyst & Content Creator
 bio: Avid Reader & Nascent Writer
+junkjam_blog: nidhi-prakash
 ---
 

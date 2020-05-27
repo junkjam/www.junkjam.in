@@ -10,12 +10,19 @@ layout: page
   {% endif %}
 
   <h1 class="name">{{ page.display_name }}</h1>
+  
 
   {% if page.position %}
-    <h2 class="position">{{ page.position }}</h2>
+    <h2 class="position"><span>{{ page.position }}</span>
+
+    {% if page.junkjam_blog %}
+       <a href="https://blog.junkjam.in/authors/{{page.junkjam_blog}}" title="JunkJam Blog" target="_blank"> <img style="height: 50px !important; width: 25px !important;display: inline;margin: -16px -16px -18px 0px;" class="img-rounded" src="/assets/img/icons/junkjam-72x72.png"> </a>
+    {% endif %}    
+    </h2>
   {% endif %}
 
   <p>{{ page.bio }}</p>
+  
 
   <h2>Posts</h2>
 

@@ -18,12 +18,14 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Staff
+    url: /staff    
   - title: Blog
     url: https://blog.junkjam.in
+  - title: Meme
+    url: https://meme.junkjam.in    
   - title: WhatsApp
     url: https://whatsapp.junkjam.in
-  - title: Meme
-    url: https://meme.junkjam.in
   - title: Feed
     url: /feed.xml
 
