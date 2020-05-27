@@ -18,9 +18,14 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Blog
+    url: https://blog.junkjam.in
+  - title: WhatsApp
+    url: https://whatsapp.junkjam.in
+  - title: Meme
+    url: https://meme.junkjam.in
   - title: Feed
     url: /feed.xml
-
 
 # Social Media Settings
 # Remove the item if you don't need it
@@ -55,6 +60,7 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
 use_logo: false
+use_brand: true
 
 # Content paginator
 paginate_content:

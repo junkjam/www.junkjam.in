@@ -6,6 +6,8 @@
         <a href="{{ site.baseurl }}/">
             {% if site.use_logo %}
                 {% include logo.html %}
+            {% else if site.use_brand %}
+                <img src="/assets/img/brand.png" />
             {% else %}
                 {{ site.name }}
             {% endif %}
