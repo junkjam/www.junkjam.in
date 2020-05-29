@@ -1,6 +1,6 @@
 ---
 title: Social Distancing With SODAR
-date: '2020-05-29 21:09:18'
+date: '2020-05-29 22:30:00'
 layout: post
 category: tech
 author: nidhi
@@ -24,18 +24,19 @@ All an individual needs to do is follow these steps-
 
 * Click on ‘Launch’
 
-<img src="/assets/img/uploads/IMG_20200529_212401.jpg">
+![](/assets/img/uploads/IMG_20200529_212401.jpg)
 
 * Grant permission to Enter AR and camera. 
 
 * An instruction ‘To point the ground, point your phone down and move it around’ will be flashed on mobile screen.
 
-<img src="/assets/img/uploads/Screenshot_2020-05-29-20-38-10-676_com.android.chrome.jpg">
+![](/assets/img/uploads/Screenshot_2020-05-29-20-38-10-676_com.android.chrome.jpg)
 
 * In few seconds, the user will be able to see the 2- meter curve white line. Go with the flow.
 
-<img src="/assets/img/uploads/Screenshot_2020-05-29-20-41-57-214_com.android.chrome.jpg">
+![](/assets/img/uploads/Screenshot_2020-05-29-20-41-57-214_com.android.chrome.jpg)
 
 Till now, there is no assurance of accuracy of the distance, it is just estimation.
 The application is yet in experimental phase. Hence, it can only be accessed using chrome browser in an Android phone. The iOS users will have to wait for advanced version.
+
 Maintain Social distance with Google and Prevent COVID-19!
