@@ -20,8 +20,10 @@ menu:
     url: /contact
   - title: Staff
     url: /staff    
-  - title: Blog
+  - title: Junk
     url: https://blog.junkjam.in
+  - title: Drive
+    url: https://drive.junkjam.in
   - title: Meme
     url: https://meme.junkjam.in    
   - title: WhatsApp
