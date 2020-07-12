@@ -15,12 +15,12 @@ $ npm install gulp-cli -g
 
 Clone this repo:
 ```
-$ git clone https://github.com/sidart/bizdom.git
+$ git clone https://github.com/junkjam/www.junkjam.in.git
 ```
 
 Access the local project:
 ```
-$ cd bizdom
+$ cd www.junkjam.in
 ```
 
 Install npm packages:
