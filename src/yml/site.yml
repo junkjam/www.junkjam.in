@@ -15,16 +15,16 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Team
+    url: /team
   - title: Contact
     url: /contact
-  - title: Staff
-    url: /staff    
-  - title: Junk
+  - title: Blog
     url: https://blog.junkjam.in
   - title: Drive
     url: https://drive.junkjam.in
   - title: Meme
-    url: https://meme.junkjam.in    
+    url: https://meme.junkjam.in
   - title: WhatsApp
     url: https://whatsapp.junkjam.in
   - title: Feed
