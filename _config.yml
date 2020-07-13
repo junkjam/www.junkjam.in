@@ -35,9 +35,10 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: junkjam
-facebook_username: junkjam.in
-twitter_username: junkjamindia
-instagram_username: junkjam.in
+facebook_username:
+twitter_username:
+instagram_username:
+
 
 # Posts Settings
 show_time_bar: true
