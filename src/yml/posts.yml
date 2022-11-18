@@ -1,3 +1,4 @@
+future: true
 show_time_bar: true
 show_modal_on_exit: true
 show_modal_on_finish_post: true
