@@ -9,7 +9,7 @@ tags:
 image: "/assets/img/uploads/The-Nights-of-Stories-Column.png"
 ---
 
-I started blogging some four years back, and the first thing I wrote was about ‘![Safety Tips for Solo Women.](https://blog.junkjam.in/2018/03/18/safety-tips-for-solo-women-traveller/)’ The irony was that I had never traveled by myself when I curated that blog. So was that some random advice? Of course not! I did full-fledged research before picking up the pen, and the tips are still worth going through, even in 2022 and in the future.
+I started blogging some four years back, and the first thing I wrote was about [Safety Tips for Solo Women.](https://blog.junkjam.in/2018/03/18/safety-tips-for-solo-women-traveller/) The irony was that I had never traveled by myself when I curated that blog. So was that some random advice? Of course not! I did full-fledged research before picking up the pen, and the tips are still worth going through, even in 2022 and in the future.
 
 At this point, I feel I have always been destined to walk on streets of new cities, befriend strangers, live in the stories of people I may never meet again other than social media, and rest in some pretty Airbnb. And all by myself. Perhaps that is the reason I did so much research.
 
