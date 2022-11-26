@@ -4,9 +4,13 @@ date: '2022-11-18 10:00:00'
 layout: post
 category: travel
 author: nidhi
-tags:
+tags: 
+- travel
+- women traveller
+- beach story
+- explore cities
 - cafe
-image: "/assets/img/uploads/The-Nights-of-Stories-Column.png"
+image: "/assets/img/uploads/IMG_20211230_121922.jpg"
 ---
 
 I started blogging some four years back, and the first thing I wrote was about [Safety Tips for Solo Women.](https://blog.junkjam.in/2018/03/18/safety-tips-for-solo-women-traveller/) The irony was that I had never traveled by myself when I curated that blog. So was that some random advice? Of course not! I did full-fledged research before picking up the pen, and the tips are still worth going through, even in 2022 and in the future.
@@ -37,3 +41,4 @@ And when you exchange these stories with other people you get a chance to live t
 For me, these solo trips taught me to stay humble; not everything I chase is what I deserve, and rightly so. Because the universe is way beyond my imagination, and it has its own way of presenting our moments. Just like when I lost my way in Goa, I strolled at a beach with no humans around. Later, I found myself at Candolim, but the experience was serene. On the dinner table of haamroghar (Mirik), I was fortunate to become part of the Nepali new year celebration and relish some pahadi food. And at the same time, the head of the family dedicated which food contributed to immunity development. Not to miss, at the edge of Konkan, I learned we could survive the worst; the storm passes, but some of it stays in the form of scars, which is a badge of honor. 
 
 (This column was written while I was sitting at a window of a quaint Portugal mansion turned into Cafe.)
+![](/assets/img/uploads/The-Nights-of-Stories-Column.png)
