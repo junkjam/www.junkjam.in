@@ -2,7 +2,7 @@
 title: The Nights of Stories
 date: '2022-11-18 10:00:00'
 layout: post
-category: travel
+category: column
 author: nidhi
 tags: 
 - travel
