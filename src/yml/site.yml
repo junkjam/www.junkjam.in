@@ -18,6 +18,8 @@ menu:
     url: /team
   - title: Contact
     url: /contact
+  - title: Column
+    url: /category/column
   - title: Blog
     url: https://blog.junkjam.in
   - title: Drive
